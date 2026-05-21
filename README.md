@@ -15,7 +15,7 @@
   
   The program should display the average marks up to two decimal places and the corresponding grade. 
   
-# Date : 
+# Date : 21/5/2026
 # Aim:
  To build a C program that receives inputs for a student’s marks in three subjects, calculates the average, and determines the grade using nested if-else statements with safe floating-point comparisons.
 # Algorithm:
@@ -56,7 +56,11 @@
 ### Step 11:
   Stop
 # Program:
+<img width="825" height="752" alt="image" src="https://github.com/user-attachments/assets/9cd0b2b8-0eea-4eab-8a68-680605fe17ed" />
+
 # Output:
+<img width="472" height="288" alt="image" src="https://github.com/user-attachments/assets/0af203d6-5312-40fd-9962-daa13183f7e0" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -64,7 +68,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:7
   Develop a C program to display the multiplication table of a given number (15) up to 10.
-# Date : 
+# Date : 21/5/2026
 # Aim:
  To develop a C program that prints the multiplication table of the number 15 up to 10 using a for loop.
 # Algorithm:
@@ -88,7 +92,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 
 # Program:
+<img width="755" height="483" alt="image" src="https://github.com/user-attachments/assets/4ea2bdc3-0621-4335-bc0b-5c4ff1a32e4a" />
+
 # Output:
+<img width="491" height="443" alt="image" src="https://github.com/user-attachments/assets/2ac2f6d6-a97b-4691-80f8-2e34545f32ae" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -96,7 +104,7 @@ Thus, the program was implemented and executed successfully, and the required ou
 # IAPR-2- Module 2 - FoC
 # Ex.No:8
   Develop a C program to check whether a given number is prime or not.
-# Date : 
+# Date : 21/05/2026
 # Aim:
  To develop a C program that determines whether an input number is a prime number using a while loop.
 # Algorithm:
@@ -131,7 +139,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 7:   
   Stop
 # Program:
+<img width="905" height="932" alt="image" src="https://github.com/user-attachments/assets/3b8d97be-7b76-48c4-84f4-165dceff4fa2" />
+
 # Output:
+<img width="412" height="232" alt="image" src="https://github.com/user-attachments/assets/4f1d620e-b951-461d-980a-d0ba41a6f037" />
+
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -147,7 +159,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  4   2  
  54321
  ```
-# Date : 
+# Date : 21/5/2026
 # Aim:
  To build a C program that prints the required numeric pattern for a given value of n using nested loops.
 # Algorithm:
@@ -179,7 +191,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 8:   
   Stop
 # Program:
+<img width="742" height="896" alt="image" src="https://github.com/user-attachments/assets/79a7b0f7-bfea-4aff-8e74-032fecea58c6" />
+
 # Output:
+<img width="522" height="366" alt="image" src="https://github.com/user-attachments/assets/99791579-e9a6-4440-a95e-cf72a509771a" />
+
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -204,6 +220,7 @@ Thus, the program was implemented and executed successfully, and the required ou
  2  3  4  5  6  7  0  7  6  5  4  3  2
  
  1  2  3  4  5  6  7  0  7  6  5  4  3  2  1
+# Date: 21/5/2026
 
 # Aim: 
   To formulate a C program to print a symmetric numeric pattern in which each row contains an increasing sequence of numbers from the row value up to 7, followed by 0 in the center, and then a decreasing sequence of numbers back to the row value.
@@ -232,6 +249,11 @@ Thus, the program was implemented and executed successfully, and the required ou
   Decrease i by 1 and go back to Step 6.
 ### Step 8:
   Stop
+ # Program:
+ <img width="648" height="697" alt="image" src="https://github.com/user-attachments/assets/a6ae5791-1217-49e5-98c6-87b37c5e5f81" />
+# Output:
+<img width="417" height="383" alt="image" src="https://github.com/user-attachments/assets/8cf13129-af24-4ddd-af12-40d613dd2fb2" />
+
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
 
